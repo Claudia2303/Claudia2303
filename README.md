@@ -1,6 +1,6 @@
 # Meu portifólio 
 
-Claudia Santos, cursando o curso de Programação de Jogos Digitais, no IFRN - _Campus_ Ceará-Mirim
+Claudia Santos, cursando Programação de Jogos Digitais, no IFRN - _Campus_ Ceará-Mirim
 
 ## Contatos
 
