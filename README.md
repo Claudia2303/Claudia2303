@@ -12,10 +12,10 @@ Claudia Santos, cursando Programação de Jogos Digitais, no IFRN - _Campus_ Cea
 ## Jogos
 
 1. add link(url)
-[fofuxo](https://www.google.com/search?q=urso+fofinho&rlz=1C1GCEU_pt-BRBR820BR820&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiIlq2Omq7fAhVIlpAKHTtyDQwQ_AUIDigB&biw=1920&bih=969#imgrc=r9s6OIOt6If_yM:)
+[fofuxo](https://www.chimpstickers.com/wp-content/uploads/2016/04/animals010-cute-bear.png)
 
 2. transformar link em imagem(url + imagem)
-![fofuxo](https://www.google.com/search?q=urso+fofinho&rlz=1C1GCEU_pt-BRBR820BR820&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiIlq2Omq7fAhVIlpAKHTtyDQwQ_AUIDigB&biw=1920&bih=969#imgrc=r9s6OIOt6If_yM:)
+![fofuxo](https://www.chimpstickers.com/wp-content/uploads/2016/04/animals010-cute-bear.png)
 
 3. add imagem do pc
 
