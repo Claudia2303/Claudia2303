@@ -25,3 +25,4 @@ Claudia Santos, cursando Programação de Jogos Digitais, no IFRN - _Campus_ Cea
 
 **JOGUINHO DA VERGONHA**
  _Este jogo é muito legal, venha se divertir!_
+
