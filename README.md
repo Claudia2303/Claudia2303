@@ -18,7 +18,7 @@ Claudia Santos, cursando Programação de Jogos Digitais, no IFRN - _Campus_ Cea
 ![fofuxo](https://www.chimpstickers.com/wp-content/uploads/2016/04/animals010-cute-bear.png)
 
 3. add imagem do pc
-[imagem][dg.jpg]
+[imagem](dg.jpg)
 
 **JOGUINHO DA VERGONHA**
  _Este jogo é muito legal, venha se divertir!_
