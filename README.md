@@ -17,6 +17,18 @@ Claudia Santos, cursando Programação de Jogos Digitais, no IFRN - _Campus_ Cea
 
 ## JOGOS
 
+### 1. Dog Challenge
+
+https://ruanaffff.github.io/CAOZINHOGUB/
+
+### 2. Size Companions
+
+https://danilo25.github.io/SizeCompanions2/
+
+### 3. As Aventuras de Chupinga
+
+https://ruanaffff.github.io/Chupinga/
+
 1. add link(url)
 [fofuxo](https://www.chimpstickers.com/wp-content/uploads/2016/04/animals010-cute-bear.png)
 
