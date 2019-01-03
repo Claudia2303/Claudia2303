@@ -7,14 +7,15 @@ Claudia Santos, cursando Programação de Jogos Digitais, no IFRN - _Campus_ Cea
 
 ## CONTATOS
 
+
 ### 1. Email acadêmico: 
 
-<a href = " claudia.s@academico.ifrn.edu.br " target="_blank"> claudia.s@academico.ifrn.edu.br </a> 
+claudia.s@academico.ifrn.edu.br
 
 
 ### 2. E-mail pessoal: 
 
-<a href = " clauj219@gmail.com " target="_blank"> clauj219@gmail.com </a> 
+clauj219@gmail.com
 
 
 ### 3. Facebook: 
