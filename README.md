@@ -42,7 +42,7 @@ Claudia Santos
 
 ### 4. Mãe, quem apagou a luz?
 
-#### <a href = " https: //erikyjoseph.github.io/maequemapagou/ " target="_blank"> Mãe, quem apagou a luz?  </a>
+#### <a href = " https://erikyjoseph.github.io/maequemapagou/ " target="_blank"> Mãe, quem apagou a luz?  </a>
 
 
 
