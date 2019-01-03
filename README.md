@@ -1,21 +1,21 @@
-# Meu portifólio 
+# MEU POTYIFÓLIO 
 
 Claudia Santos, cursando Programação de Jogos Digitais, no IFRN - _Campus_ Ceará-Mirim
 
 ![imagem]_(abe.jpg)
 
 
-## Contatos
+## CONTATOS
 
 ### 1. Email acadêmico: claudia.s@academico.ifrn.edu.br
 
 ### 2. E-mail pessoal: clauj219@gmail.com
 
-### 3. Facebook:
+### 3. Facebook: Claudia Santos
 
-Claudia Santos
+### 4. Instagram
 
-## Jogos
+## JOGOS
 
 1. add link(url)
 [fofuxo](https://www.chimpstickers.com/wp-content/uploads/2016/04/animals010-cute-bear.png)
