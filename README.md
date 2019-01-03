@@ -27,7 +27,7 @@ Claudia Santos, cursando Programação de Jogos Digitais, no IFRN - _Campus_ Cea
 
 ### 3. As Aventuras de Chupinga
 
-<a href = " https://ruanaffff.github.io/Chupinga/ " target="_blank"> Size Companions </a> 
+#### <a href = " https://ruanaffff.github.io/Chupinga/ " target="_blank"> Size Companions </a> 
 
 
 1. add link(url)
