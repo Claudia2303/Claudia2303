@@ -31,12 +31,17 @@ Claudia Santos
 ## JOGOS
 
 
+
 ### 1. Dog Challenge
+
+![imagem](dogg.png)
 
 #### <a href = " https://ruanaffff.github.io/CAOZINHOGUB/ " target="_blank"> Cão </a> 
 
 
 ### 2. Size Companions
+
+![imagem](dodo.png)
 
 #### <a href = " https://danilo25.github.io/SizeCompanions2/ " target="_blank"> Size Companions </a> 
 
