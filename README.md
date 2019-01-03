@@ -19,7 +19,7 @@ Claudia Santos, cursando Programação de Jogos Digitais, no IFRN - _Campus_ Cea
 
 ### 1. Dog Challenge
 
-https://ruanaffff.github.io/CAOZINHOGUB/
+<a href = " https://ruanaffff.github.io/CAOZINHOGUB/ " target="_blank"> Cão </a> 
 
 ### 2. Size Companions
 
