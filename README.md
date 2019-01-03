@@ -14,7 +14,9 @@ Claudia Santos, cursando Programação de Jogos Digitais, no IFRN - _Campus_ Cea
 
 ### 2. E-mail pessoal: 
 
-clauj219@gmail.com
+<a href = " clauj219@gmail.com " target="_blank"> clauj219@gmail.com </a> 
+
+
 
 ### 3. Facebook: 
 
