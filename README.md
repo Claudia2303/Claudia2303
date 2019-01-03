@@ -48,6 +48,8 @@ Claudia Santos
 
 ### 3. As Aventuras de Chupinga
 
+![imagem](dodi.png)
+
 #### <a href = " https://ruanaffff.github.io/Chupinga/ " target="_blank"> As Aventuras de Chupinga  </a> 
 
 
