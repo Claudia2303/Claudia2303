@@ -2,7 +2,7 @@
 
 Claudia Santos, cursando Programação de Jogos Digitais, no IFRN - _Campus_ Ceará-Mirim.
 
-![imagem](bbbb.png)
+![imagem](bs.png)
 
 
 ## CONTATOS
