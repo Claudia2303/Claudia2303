@@ -1,6 +1,6 @@
 # MEU PORTIFÓLIO 
 
-Claudia Santos, cursando Programação de Jogos Digitais, no IFRN - _Campus_ Ceará-Mirim
+Claudia Santos, cursando Programação de Jogos Digitais, no IFRN - _Campus_ Ceará-Mirim.
 
 ![imagem]_(abe.jpg)
 
@@ -10,13 +10,16 @@ Claudia Santos, cursando Programação de Jogos Digitais, no IFRN - _Campus_ Cea
 ### 1. Email acadêmico: claudia.s@academico.ifrn.edu.br
 
 ### 2. E-mail pessoal: 
-#### clauj219@gmail.com
+
+clauj219@gmail.com
 
 ### 3. Facebook: 
-#### Claudia Santos
+
+Claudia Santos
 
 ### 4. Instagram
-#### @claudiasantosz
+
+@claudiasantosz
 
 ## JOGOS
 
